@@ -2,7 +2,7 @@ import { MongoClient, ServerApiVersion } from "mongodb";
 
 const username = 'your_username';
 const password = 'your_password';
-const url = "mongodb://mongo:pMkdkTcokHLuKNeyygzZSuRpaOBRgIOg@mongodb.railway.internal:27017";
+const url = "mongodb://mongo:OwrNCuJQsdbjMBJDwxneYrbainGMwkxO@mongodb.railway.internal:27017";
 const dbName = 'football';
 
 let client
